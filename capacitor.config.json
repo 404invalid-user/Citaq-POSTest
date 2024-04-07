@@ -1,0 +1,13 @@
+{
+  "appId": "xyz.invaliduser.postest",
+  "appName": "POS Test",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
