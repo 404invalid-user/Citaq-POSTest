@@ -19,9 +19,6 @@ jobs:
         with:
           ref: main
           
-      - uses: geertvdc/setup-hub@master
-
-      - run: hub --version
 
       - name: get-npm-version
         id: package-version
