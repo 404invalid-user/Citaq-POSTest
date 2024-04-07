@@ -15,12 +15,9 @@ jobs:
     #     working-directory: ./frontend
     steps:
       - name: Checkout source
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
         with:
           ref: main
-
-      - name: Setup Hub
-        uses: geertvdc/setup-hub@master
 
       - name: get-npm-version
         id: package-version
