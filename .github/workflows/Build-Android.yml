@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     name: Build APK
+    permissions: write-all
     runs-on: ubuntu-latest
     # TODO: add the default directory - COMMENT IF IT'S NOT IN SUBFOLDER
     # defaults:
