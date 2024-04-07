@@ -6,7 +6,7 @@ tested and developed on a H10-1 but they seem to all be the same so it should wo
 
 ## get the apk
 
-[click here to download it]()
+[click here to download it](https://github.com/404invalid-user/Citaq-POSTest/releases/download/0.0.1/app-debug.apk)
 
 ## dev setup
 
